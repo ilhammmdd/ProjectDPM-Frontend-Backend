@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921759452189",
+    "project_id": "projectdpm-1962a",
+    "storage_bucket": "projectdpm-1962a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921759452189:android:cef5c0b681c32950de8af4",
+        "android_client_info": {
+          "package_name": "com.aerostream.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGZ6kGVVL9c53Q1WYm3XXSZNdKSXXMusE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
